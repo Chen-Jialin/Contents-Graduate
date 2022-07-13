@@ -9,3 +9,12 @@
 - 高等线性代数（PHYS6653P）
   - [笔记](https://github.com/Chen-Jialin/Advanced-Linear-Algebra-Notes)
   - [考试](https://github.com/Chen-Jialin/Advanced-Linear-Algebra-Exam)
+
+## 研一下：2021-2022 学年第二学期
+- 量子光学（PHYS6251P）
+  - [作业](https://github.com/Chen-Jialin/Quantum-Optics-Assignments)
+  - [考试](https://github.com/Chen-Jialin/Quantum-Optics-Exams)
+- 非线性光学（PHYS5252P）
+  - [作业和测试](https://github.com/Chen-Jialin/Nonlinear-Optics-2-Assignments-and-Exams)
+- 量子电子学
+  - [作业](https://github.com/Chen-Jialin/Quantum-Electronics-Assignments)
