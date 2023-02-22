@@ -4,6 +4,7 @@
 ## 研一上：2021-2022 学年第一学期
 - 量子信息导论（PHYS5251P）
   - [作业](https://github.com/Chen-Jialin/Introduction-to-Quantum-Information-Assignments)
+  - [考试](https://github.com/Chen-Jialin/Introduction-to-Quantum-Information-Exam)
 - 光电子技术（PHYS74203）
   - [作业](https://github.com/Chen-Jialin/Optoelectronic-Technology-Assignments)
 - 高等线性代数（PHYS6653P）
