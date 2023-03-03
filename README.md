@@ -19,3 +19,8 @@
   - [作业和测试](https://github.com/Chen-Jialin/Nonlinear-Optics-2-Assignments-and-Exams)
 - 量子电子学
   - [作业](https://github.com/Chen-Jialin/Quantum-Electronics-Assignments)
+
+## 研二上：2022-2023 年第一学期
+- 高等量子力学（PHYS5001P）
+  - [作业](https://github.com/Chen-Jialin/Advanced-Quantum-Mechanics-Assignments)
+  - [考试](https://github.com/Chen-Jialin/Advanced-Quantum-Mechanics-Exam)
